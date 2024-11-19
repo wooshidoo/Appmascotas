@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629114761576",
+    "project_id": "appmascotas-fb7cc",
+    "storage_bucket": "appmascotas-fb7cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629114761576:android:bfc3e3de05e7a25f5d26dd",
+        "android_client_info": {
+          "package_name": "com.stomas.appmascotas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fprh3oVWSo6XzNUaQc9IoxrjUMX78lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
